@@ -1,10 +1,9 @@
 # Logbook
 
-30.10.2024, 2h, Kick-off lecture, Lecture recording
+This logbook tracks my daily progress, hours spent, challenges faced, and plans for improvement as a student.
 
-| Date       | Used hours | Subject(s)        | Output             |
-|------------|------------|-------------------|--------------------|
-| 30.10.2024 | 2          | Kick-off lecture  | Lecture recording  |
-| 31.10.2024 | 2          | Kick-off lecture  | Lecture recording  |
-| 30.10.2024 | 2          | Kick-off lecture  | Lecture recording  |
-| 30.10.2024 | 2          | Kick-off lecture  | Lecture recording  |
+| Date       | Used Hours | Subjects/Activities           | Output                  | Challenges Faced                | Next Steps                   |
+|------------|-----------|--------------------------------|-------------------------|---------------------------------|------------------------------|
+| 30.10.2024 | 2         | Kick-off lecture               | Lecture recording       | Understanding project goals     | Review project slides        |
+| 01.25.2025 | 1         | Research on Git & Markdown     | Created Git repo        | no challenges                   | Practice with examples       |
+| 01.25.2025 | 1         | Worked on assignment           | Drafted introduction    | no challenges                   | Seek feedback from peers     |
