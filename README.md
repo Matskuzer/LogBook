@@ -8,5 +8,5 @@ This logbook tracks my daily progress, hours spent, challenges faced, and plans 
 | 15.01.2025 | 1         | Research on Git & Markdown     | Created Git repo        | no challenges                   | Practice with examples       |
 | 25.01.2025 | 1         | Worked on assignment           | Drafted introduction    | no challenges                   | Seek feedback from peers     |
 | 09.02.2025 | 2         | Worked on assignment           | Portswigger assignement | a bit challenges with burp suite| Seek feedback from peers     |
-| 21.02.2025 | 2         | Worked on assignment           | Bookingsystem part1     | no challenges                   | Seek feedback from peers     |
-| 05.03.2025 | 2         | Worked on assignment           | Bookingsystem part2     | no challenges                   | Seek feedback from peers     |
+| 21.02.2025 | 4         | Worked on assignment           | Bookingsystem part1     | no challenges                   | Seek feedback from peers     |
+| 05.03.2025 | 6         | Worked on assignment           | Bookingsystem part2     | no challenges                   | Seek feedback from peers     |
