@@ -11,3 +11,4 @@ This logbook tracks my daily progress, hours spent, challenges faced, and plans 
 | 21.02.2025 | 6         | Worked on assignment           | Bookingsystem part1                              | no challenges                                             | Seek feedback from peers     |
 | 05.03.2025 | 4         | Worked on assignment           | Bookingsystem part2                              | no challenges                                             | Seek feedback from peers     |
 | 16.03.2025 | 6         | Worked on assignment           |The Booking system project → Phase 2 → Part 1     | Meinasi kestää monia vuosia crackääminen                  | Seek feedback from peers     |
+| 23.03.2025 | 6         | Worked on assignment           |The Booking system project → Phase 2 → Part 2     | no challenges                                             | Seek feedback from peers     |
