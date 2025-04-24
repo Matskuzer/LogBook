@@ -12,4 +12,4 @@ This logbook tracks my daily progress, hours spent, challenges faced, and plans 
 | 05.03.2025 | 4         | Worked on assignment           | Bookingsystem part2                              | no challenges                                                 |
 | 16.03.2025 | 6         | Worked on assignment           |The Booking system project → Phase 2 → Part 1     | Meinasi kestää monia vuosia crackääminen                      |
 | 23.03.2025 | 6         | Worked on assignment           |The Booking system project → Phase 2 → Part 2     | no challenges                                                 |
-| 06.04.2025 | 7         | Worked on assignment           |The Booking system project → Phase 3              | Kali Linux ei halunnut toimia, en kerennyt palauttaa ajallaan |
+| 06.04.2025 | 7         | Worked on assignment           |The Booking system project → Phase 3              | Kali Linux ei halunnut toimia, en kerennyt palauttaa ajallaan. Tarvitsisin Phase 3 auki |
